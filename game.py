@@ -1,4 +1,4 @@
-# World guessing game
+# Word guessing game
 
 import random as random
 import time as time
